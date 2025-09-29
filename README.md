@@ -21,3 +21,7 @@ This work is licensed under a
 
 ![blocktext with circuits](./f2_blocktext_circuits.svg)
 
+
+### BLocktext with circuits, background
+
+![](./f2_background_variant.svg)
