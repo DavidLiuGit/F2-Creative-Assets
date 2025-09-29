@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!--
+Copyright © 2025 David Liu @DavidLiuGit
+This logo is protected by copyright law. Unauthorized commercial use is prohibited.
+For licensing inquiries, contact dvdgege5@gmail.com
+-->
+
+<svg
+   width="1000"
+   height="1000"
+   version="1.1"
+   id="svg34"
+   sodipodi:docname="f2_text_with_circuits_inkscape.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   inkscape:export-filename="f2_text_with_circuits-fixed-mux.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview34"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="1.815"
+     inkscape:cx="464.73829"
+     inkscape:cy="521.76309"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="PCB_TRACES"
+     inkscape:export-bgcolor="#ffffffff" />
+  <g
+     id="BLOCK_LETTERS">
+    <title
+       id="title1">Block Letters</title>
+    <!-- Block Letter F -->
+    <g
+       id="svg_1">
+      <rect
+         id="svg_6"
+         height="300"
+         width="100"
+         y="250"
+         x="150"
+         stroke-dasharray="2,2"
+         stroke-width="0"
+         stroke="#000"
+         fill="url(#block_letter_secondary)" />
+      <rect
+         stroke-width="0"
+         stroke-dasharray="2,2"
+         id="svg_3"
+         height="100"
+         width="300"
+         y="230"
+         x="150"
+         stroke="#000"
+         fill="url(#svg_22)" />
+      <rect
+         id="svg_7"
+         height="300"
+         width="100"
+         y="475"
+         x="150"
+         stroke-dasharray="2,2"
+         stroke-width="0"
+         stroke="#000"
+         fill="url(#block_letter_secondary)" />
+      <rect
+         stroke-width="0"
+         stroke-dasharray="2,2"
+         id="svg_23"
+         height="100"
+         width="300"
+         y="450"
+         x="150"
+         stroke="#000"
+         fill="url(#svg_22)" />
+    </g>
+    <!-- Block letter 2 -->
+    <rect
+       id="svg_13"
+       height="300"
+       width="100"
+       y="250"
+       x="750"
+       stroke-dasharray="2,2"
+       stroke-width="0"
+       stroke="#000"
+       fill="url(#block_letter_secondary)" />
+    <rect
+       id="svg_12"
+       height="300"
+       width="100"
+       y="475"
+       x="550"
+       stroke-dasharray="2,2"
+       stroke-width="0"
+       stroke="#000"
+       fill="url(#block_letter_secondary)"
+       style="stroke:url(#linearGradient4)" />
+    <rect
+       stroke-width="0"
+       stroke-dasharray="2,2"
+       id="svg_9"
+       height="100"
+       width="300"
+       y="230"
+       x="550"
+       stroke="#000"
+       fill="url(#svg_18)" />
+    <rect
+       stroke-width="0"
+       stroke-dasharray="2,2"
+       id="svg_24"
+       height="100"
+       width="300"
+       y="450"
+       x="550"
+       stroke="#000"
+       fill="url(#svg_18)" />
+    <rect
+       stroke-width="0"
+       stroke-dasharray="2, 2"
+       id="svg_25"
+       height="100"
+       width="300"
+       y="680"
+       x="550"
+       stroke="#000000"
+       fill="url(#svg_18)"
+       style="fill:url(#linearGradient69)" />
+  </g>
+  <g
+     id="PCB_TRACES"
+     style="fill:none;stroke:#000000;stroke-opacity:1">
+    <title
+       id="title2">PCB Traces</title>
+    <!-- Block letter F Traces -->
+    <g
+       id="g10"
+       style="fill:none;stroke:#ff9900;stroke-opacity:1">
+      <line
+         x1="200"
+         y1="420"
+         x2="200"
+         y2="450"
+         style="stroke:#ff9900;stroke-linecap:square;stroke-width:2;fill:none;stroke-opacity:1"
+         id="line2" />
+      <line
+         x1="210"
+         y1="330"
+         x2="210"
+         y2="360"
+         style="stroke:#ff9900;stroke-linecap:square;stroke-width:2;fill:none;stroke-opacity:1"
+         id="line3" />
+      <line
+         x1="190"
+         y1="330"
+         x2="190"
+         y2="350"
+         style="stroke:#ff9900;stroke-linecap:square;stroke-width:2;fill:none;stroke-opacity:1"
+         id="line4" />
+      <line
+         x1="190"
+         y1="350"
+         x2="190"
+         y2="360"
+         style="stroke:#ff9900;stroke-linecap:square;stroke-width:2;fill:none;stroke-opacity:1"
+         id="line5" />
+      <line
+         x1="190"
+         y1="350"
+         x2="190"
+         y2="365"
+         style="stroke:#ff9900;stroke-linecap:square;stroke-width:2;fill:none;stroke-opacity:1"
+         id="line6" />
+      <line
+         x1="210"
+         y1="350"
+         x2="210"
+         y2="365"
+         style="stroke:#ff9900;stroke-linecap:square;stroke-width:2;fill:none;stroke-opacity:1"
+         id="line7" />
+      <path
+         d="M 190,359 M 180,359 Q 200,379 220,359"
+         style="fill-opacity:0;fill:none;stroke:#ff9900;stroke-linecap:square;stroke-width:2;stroke-opacity:1"
+         id="path7" />
+      <path
+         d="M 190,359 M 180,367 Q 200,387 220,367 Q 215,402 200,417 Q 185,402 180,367 Z"
+         style="fill-opacity:0;fill:none;stroke:#ff9900;stroke-linecap:square;stroke-width:2;stroke-opacity:1"
+         id="path8" />
+      <line
+         x1="200"
+         y1="415"
+         x2="200"
+         y2="420"
+         style="stroke:#ff9900;stroke-linecap:square;stroke-width:2;fill:none;stroke-opacity:1"
+         id="line8" />
+      <line
+         x1="230"
+         y1="330"
+         x2="230"
+         y2="450"
+         style="stroke:#ff9900;stroke-linecap:square;stroke-width:2;fill:none;stroke-opacity:1"
+         id="line9" />
+      <line
+         x1="170"
+         y1="330"
+         x2="170"
+         y2="450"
+         style="stroke:#ff9900;stroke-linecap:square;stroke-width:2;fill:none;stroke-opacity:1"
+         id="line10" />
+    </g>
+    <g
+       id="g14"
+       style="fill:none;stroke:#222222;stroke-opacity:0.86666667">
+      <text
+         x="428"
+         y="500"
+         style="fill:none;font-family:Arial;font-size:12px;text-anchor:start;stroke:#222222;stroke-opacity:0.86666667"
+         dominant-baseline="middle"
+         transform="rotate(0, 428, 500)"
+         id="text10" />
+      <line
+         x1="200"
+         y1="500"
+         x2="417"
+         y2="500"
+         style="stroke:#222222;stroke-linecap:square;stroke-width:2;fill:none;stroke-opacity:0.86666667"
+         id="line11" />
+      <ellipse
+         cx="420"
+         cy="500"
+         rx="3"
+         ry="3"
+         style="fill-opacity:0;fill:none;stroke:#222222;stroke-width:2;stroke-opacity:0.86666667"
+         id="ellipse11" />
+      <line
+         x1="200"
+         y1="450"
+         x2="200"
+         y2="500"
+         style="stroke:#222222;stroke-linecap:square;stroke-width:2;fill:none;stroke-opacity:0.86666667"
+         id="line12" />
+      <line
+         x1="230"
+         y1="450"
+         x2="230"
+         y2="550"
+         style="stroke:#222222;stroke-linecap:square;stroke-width:2;fill:none;stroke-opacity:0.86666667"
+         id="line13" />
+      <line
+         x1="170"
+         y1="450"
+         x2="170"
+         y2="550"
+         style="stroke:#222222;stroke-linecap:square;stroke-width:2;fill:none;stroke-opacity:0.86666667"
+         id="line14" />
+    </g>
+    <g
+       id="g25"
+       style="fill:none;stroke:#ff9900;stroke-opacity:0.87450981">
+      <text
+         x="200"
+         y="755"
+         style="fill:rgba(255, 165, 0, 255);font-family:Arial;font-size:12px;text-anchor:middle;stroke:#ff9900;stroke-opacity:0.87450981"
+         dominant-baseline="hanging"
+         transform="rotate(0, 200, 755)"
+         id="text1" />
+      <line
+         x1="200"
+         y1="690"
+         x2="200"
+         y2="747"
+         style="stroke:#ff9900;stroke-linecap:square;stroke-width:2;stroke-opacity:0.87450981"
+         id="line1" />
+      <ellipse
+         cx="200"
+         cy="750"
+         rx="3"
+         ry="3"
+         style="fill-opacity:0;fill:rgba(255, 165, 0, 255);stroke:#ff9900;stroke-width:2;stroke-opacity:0.87450981"
+         id="ellipse1" />
+      <line
+         x1="210"
+         y1="620"
+         x2="230"
+         y2="620"
+         style="stroke:#ff9900;stroke-linecap:square;stroke-width:2;stroke-opacity:0.87450981"
+         id="line15" />
+      <line
+         x1="230"
+         y1="550"
+         x2="230"
+         y2="620"
+         style="stroke:#ff9900;stroke-linecap:square;stroke-width:2;stroke-opacity:0.87450981"
+         id="line16" />
+      <line
+         x1="170"
+         y1="620"
+         x2="190"
+         y2="620"
+         style="stroke:#ff9900;stroke-linecap:square;stroke-width:2;stroke-opacity:0.87450981"
+         id="line17" />
+      <line
+         x1="170"
+         y1="550"
+         x2="170"
+         y2="620"
+         style="stroke:#ff9900;stroke-linecap:square;stroke-width:2;stroke-opacity:0.87450981"
+         id="line18" />
+      <line
+         x1="190"
+         y1="620"
+         x2="190"
+         y2="635"
+         style="stroke:#ff9900;stroke-linecap:square;stroke-width:2;stroke-opacity:0.87450981"
+         id="line19" />
+      <line
+         x1="210"
+         y1="620"
+         x2="210"
+         y2="635"
+         style="stroke:#ff9900;stroke-linecap:square;stroke-width:2;stroke-opacity:0.87450981"
+         id="line20" />
+      <path
+         d="M 190,635 M 180,635 L 180,659 A 5,5 90 1 0 220,659 L 220,635 L 180,635 Z"
+         style="fill-opacity:0;fill:rgba(255, 165, 0, 255);stroke:#ff9900;stroke-linecap:square;stroke-width:2;stroke-opacity:0.87450981"
+         id="path20" />
+      <line
+         x1="200"
+         y1="681"
+         x2="200"
+         y2="690"
+         style="stroke:#ff9900;stroke-linecap:square;stroke-width:2;stroke-opacity:0.87450981"
+         id="line21" />
+    </g>
+    <g
+       id="g31"
+       style="fill:none;stroke:#222222;stroke-opacity:0.86666667">
+      <line
+         x1="230"
+         y1="300"
+         x2="230"
+         y2="330"
+         style="stroke:#222222;stroke-linecap:square;stroke-width:2;fill:none;stroke-opacity:0.86666667"
+         id="line26" />
+      <line
+         x1="190"
+         y1="260"
+         x2="190"
+         y2="330"
+         style="stroke:#222222;stroke-linecap:square;stroke-width:2;fill:none;stroke-opacity:0.86666667"
+         id="line27" />
+      <text
+         x="428"
+         y="300"
+         style="fill:none;font-family:Arial;font-size:12px;text-anchor:start;stroke:#222222;stroke-opacity:0.86666667"
+         dominant-baseline="middle"
+         transform="rotate(0, 428, 300)"
+         id="text27" />
+      <line
+         x1="210"
+         y1="300"
+         x2="417"
+         y2="300"
+         style="stroke:#222222;stroke-linecap:square;stroke-width:2;fill:none;stroke-opacity:0.86666667"
+         id="line28" />
+      <ellipse
+         cx="420"
+         cy="300"
+         rx="3"
+         ry="3"
+         style="fill-opacity:0;fill:none;stroke:#222222;stroke-width:2;stroke-opacity:0.86666667"
+         id="ellipse28" />
+      <line
+         x1="210"
+         y1="300"
+         x2="210"
+         y2="330"
+         style="stroke:#222222;stroke-linecap:square;stroke-width:2;fill:none;stroke-opacity:0.86666667"
+         id="line29" />
+      <text
+         x="428"
+         y="260"
+         style="fill:none;font-family:Arial;font-size:12px;text-anchor:start;stroke:#222222;stroke-opacity:0.86666667"
+         dominant-baseline="middle"
+         transform="rotate(0, 428, 260)"
+         id="text29" />
+      <line
+         x1="170"
+         y1="260"
+         x2="417"
+         y2="260"
+         style="stroke:#222222;stroke-linecap:square;stroke-width:2;fill:none;stroke-opacity:0.86666667"
+         id="line30" />
+      <ellipse
+         cx="420"
+         cy="260"
+         rx="3"
+         ry="3"
+         style="fill-opacity:0;fill:none;stroke:#222222;stroke-width:2;stroke-opacity:0.86666667"
+         id="ellipse30" />
+      <line
+         x1="170"
+         y1="260"
+         x2="170"
+         y2="330"
+         style="stroke:#222222;stroke-linecap:square;stroke-width:2;fill:none;stroke-opacity:0.86666667"
+         id="line31" />
+    </g>
+    <!-- Block 2 PCB Traces -->
+    <g
+       id="g38"
+       style="stroke:#222222;stroke-opacity:0.86666667;fill:none;fill-opacity:1">
+      <line
+         x1="680"
+         y1="720"
+         x2="695"
+         y2="720"
+         style="stroke-linecap:square;stroke-width:2;fill:none;fill-opacity:1"
+         id="line22" />
+      <line
+         x1="680"
+         y1="740"
+         x2="695"
+         y2="740"
+         style="stroke-linecap:square;stroke-width:2;fill:none;fill-opacity:1"
+         id="line23" />
+      <path
+         d="M 695,720 M 695,710 L 719,710 A 5,5 90 1 1 719,750 L 695,750 L 695,710 Z M 740,730 A 2,2 0 0 1 746,730 A 2,2 0 0 1 740,730 Z"
+         style="fill-opacity:1;fill:none;stroke-linecap:square;stroke-width:2"
+         id="path23" />
+      <line
+         x1="746"
+         y1="730"
+         x2="750"
+         y2="730"
+         style="stroke-linecap:square;stroke-width:2;fill:none;fill-opacity:1"
+         id="line24" />
+      <text
+         x="828"
+         y="730"
+         style="fill:none;font-family:Arial;font-size:12px;text-anchor:start;fill-opacity:1"
+         dominant-baseline="middle"
+         transform="rotate(0, 828, 730)"
+         id="text24" />
+      <line
+         x1="750"
+         y1="730"
+         x2="817"
+         y2="730"
+         style="stroke-linecap:square;stroke-width:2;fill:none;fill-opacity:1"
+         id="line25" />
+      <ellipse
+         cx="820"
+         cy="730"
+         rx="3"
+         ry="3"
+         style="fill-opacity:1;fill:none;stroke-width:2"
+         id="ellipse25" />
+      <line
+         x1="620"
+         y1="720"
+         x2="680"
+         y2="720"
+         style="stroke-linecap:square;stroke-width:2;fill:none;fill-opacity:1"
+         id="line32" />
+      <line
+         x1="620"
+         y1="680"
+         x2="620"
+         y2="720"
+         style="stroke-linecap:square;stroke-width:2;fill:none;fill-opacity:1"
+         id="line33" />
+      <line
+         x1="590"
+         y1="740"
+         x2="680"
+         y2="740"
+         style="stroke-linecap:square;stroke-width:2;fill:none;fill-opacity:1"
+         id="line34" />
+      <line
+         x1="590"
+         y1="680"
+         x2="590"
+         y2="740"
+         style="stroke-linecap:square;stroke-width:2;fill:none;fill-opacity:1"
+         id="line35" />
+    </g>
+    <g
+       id="g45"
+       style="fill:none;fill-opacity:0.60000002;stroke:#ff9900;stroke-opacity:1">
+      <line
+         x1="590"
+         y1="650"
+         x2="590"
+         y2="680"
+         style="stroke:#ff9900;stroke-linecap:square;stroke-width:2;fill:none;fill-opacity:0.60000002;stroke-opacity:1"
+         id="line39" />
+      <line
+         x1="600"
+         y1="550"
+         x2="600"
+         y2="580"
+         style="stroke:#ff9900;stroke-linecap:square;stroke-width:2;fill:none;fill-opacity:0.60000002;stroke-opacity:1"
+         id="line40" />
+      <line
+         x1="580"
+         y1="550"
+         x2="580"
+         y2="580"
+         style="stroke:#ff9900;stroke-linecap:square;stroke-width:2;fill:none;fill-opacity:0.60000002;stroke-opacity:1"
+         id="line41" />
+      <line
+         x1="620"
+         y1="550"
+         x2="620"
+         y2="680"
+         style="stroke:#ff9900;stroke-linecap:square;stroke-width:2;fill:none;fill-opacity:0.60000002;stroke-opacity:1"
+         id="line42" />
+      <line
+         x1="580"
+         y1="580"
+         x2="580"
+         y2="595"
+         style="stroke:#ff9900;stroke-linecap:square;stroke-width:2;fill:none;fill-opacity:0.60000002;stroke-opacity:1"
+         id="line43" />
+      <line
+         x1="600"
+         y1="580"
+         x2="600"
+         y2="595"
+         style="stroke:#ff9900;stroke-linecap:square;stroke-width:2;fill:none;fill-opacity:0.60000002;stroke-opacity:1"
+         id="line44" />
+      <path
+         d="M 580,595 M 570,595 L 570,619 A 5,5 90 1 0 610,619 L 610,595 L 570,595 Z M 590,640 A 2,2 0 0 0 590,646 A 2,2 0 0 0 590,640 Z"
+         style="fill-opacity:0.60000002;fill:none;stroke:#ff9900;stroke-linecap:square;stroke-width:2;stroke-opacity:1"
+         id="path44" />
+      <line
+         x1="590"
+         y1="646"
+         x2="590"
+         y2="650"
+         style="stroke:#ff9900;stroke-linecap:square;stroke-width:2;fill:none;fill-opacity:0.60000002;stroke-opacity:1"
+         id="line45" />
+    </g>
+    <g
+       id="g53"
+       style="stroke:#222222;stroke-opacity:0.86666667">
+      <line
+         x1="600"
+         y1="500"
+         x2="600"
+         y2="550"
+         style="stroke:#222222;stroke-linecap:square;stroke-width:2;stroke-opacity:0.86666667"
+         id="line46" />
+      <line
+         x1="620"
+         y1="520"
+         x2="620"
+         y2="550"
+         style="stroke:#222222;stroke-linecap:square;stroke-width:2;stroke-opacity:0.86666667"
+         id="line47" />
+      <line
+         x1="620"
+         y1="520"
+         x2="810"
+         y2="520"
+         style="stroke:#222222;stroke-linecap:square;stroke-width:2;stroke-opacity:0.86666667"
+         id="line48" />
+      <line
+         x1="810"
+         y1="450"
+         x2="810"
+         y2="520"
+         style="stroke:#222222;stroke-linecap:square;stroke-width:2;stroke-opacity:0.86666667"
+         id="line49" />
+      <text
+         x="798"
+         y="500"
+         style="fill:rgba(255, 0, 0, 255);font-family:Arial;font-size:12px;text-anchor:start;stroke:#222222;stroke-opacity:0.86666667"
+         dominant-baseline="middle"
+         transform="rotate(0, 798, 500)"
+         id="text49" />
+      <line
+         x1="600"
+         y1="500"
+         x2="787"
+         y2="500"
+         style="stroke:#222222;stroke-linecap:square;stroke-width:2;stroke-opacity:0.86666667"
+         id="line50" />
+      <ellipse
+         cx="790"
+         cy="500"
+         rx="3"
+         ry="3"
+         style="fill-opacity:0;fill:rgba(255, 0, 0, 255);stroke:#222222;stroke-width:2;stroke-opacity:0.86666667"
+         id="ellipse50" />
+      <line
+         x1="780"
+         y1="450"
+         x2="780"
+         y2="480"
+         style="stroke:#222222;stroke-linecap:square;stroke-width:2;stroke-opacity:0.86666667"
+         id="line51" />
+      <line
+         x1="580"
+         y1="480"
+         x2="780"
+         y2="480"
+         style="stroke:#222222;stroke-linecap:square;stroke-width:2;stroke-opacity:0.86666667"
+         id="line52" />
+      <line
+         x1="580"
+         y1="480"
+         x2="580"
+         y2="550"
+         style="stroke:#222222;stroke-linecap:square;stroke-width:2;stroke-opacity:0.86666667"
+         id="line53" />
+    </g>
+    <g
+       id="g60"
+       style="stroke:#ff9900;stroke-opacity:1;fill:none">
+      <line
+         x1="780"
+         y1="330"
+         x2="780"
+         y2="450"
+         style="stroke:#ff9900;stroke-linecap:square;stroke-width:2;stroke-opacity:1;fill:none"
+         id="line54" />
+      <line
+         x1="810"
+         y1="430"
+         x2="810"
+         y2="450"
+         style="stroke:#ff9900;stroke-linecap:square;stroke-width:2;stroke-opacity:1;fill:none"
+         id="line55" />
+      <line
+         x1="820"
+         y1="330"
+         x2="820"
+         y2="360"
+         style="stroke:#ff9900;stroke-linecap:square;stroke-width:2;stroke-opacity:1;fill:none"
+         id="line56" />
+      <line
+         x1="800"
+         y1="330"
+         x2="800"
+         y2="360"
+         style="stroke:#ff9900;stroke-linecap:square;stroke-width:2;stroke-opacity:1;fill:none"
+         id="line57" />
+      <line
+         x1="800"
+         y1="360"
+         x2="800"
+         y2="375"
+         style="stroke:#ff9900;stroke-linecap:square;stroke-width:2;stroke-opacity:1;fill:none"
+         id="line58" />
+      <line
+         x1="820"
+         y1="360"
+         x2="820"
+         y2="375"
+         style="stroke:#ff9900;stroke-linecap:square;stroke-width:2;stroke-opacity:1;fill:none"
+         id="line59" />
+      <path
+         d="M 800,375 M 790,375 L 790,399 A 5,5 90 1 0 830,399 L 830,375 L 790,375 Z M 810,420 A 2,2 0 0 0 810,426 A 2,2 0 0 0 810,420 Z"
+         style="fill-opacity:0;fill:none;stroke:#ff9900;stroke-linecap:square;stroke-width:2;stroke-opacity:1"
+         id="path59" />
+      <line
+         x1="810"
+         y1="426"
+         x2="810"
+         y2="430"
+         style="stroke:#ff9900;stroke-linecap:square;stroke-width:2;stroke-opacity:1;fill:none"
+         id="line60" />
+    </g>
+    <g
+       id="g69"
+       style="fill:none;stroke:#222222;stroke-opacity:0.86666667">
+      <line
+         x1="780"
+         y1="310"
+         x2="780"
+         y2="330"
+         style="stroke:#222222;stroke-linecap:square;stroke-width:2;fill:none;stroke-opacity:0.86666667"
+         id="line61" />
+      <line
+         x1="640"
+         y1="310"
+         x2="780"
+         y2="310"
+         style="stroke:#222222;stroke-linecap:square;stroke-width:2;fill:none;stroke-opacity:0.86666667"
+         id="line62" />
+      <text
+         x="820"
+         y="275"
+         style="fill:none;font-family:Arial;font-size:12px;text-anchor:middle;stroke:#222222;stroke-opacity:0.86666667"
+         dominant-baseline="baseline"
+         transform="rotate(0, 820, 275)"
+         id="text62" />
+      <line
+         x1="820"
+         y1="283"
+         x2="820"
+         y2="330"
+         style="stroke:#222222;stroke-linecap:square;stroke-width:2;fill:none;stroke-opacity:0.86666667"
+         id="line63" />
+      <ellipse
+         cx="820"
+         cy="280"
+         rx="3"
+         ry="3"
+         style="fill-opacity:0;fill:none;stroke:#222222;stroke-width:2;stroke-opacity:0.86666667"
+         id="ellipse63" />
+      <line
+         x1="800"
+         y1="280"
+         x2="800"
+         y2="330"
+         style="stroke:#222222;stroke-linecap:square;stroke-width:2;fill:none;stroke-opacity:0.86666667"
+         id="line64" />
+      <line
+         x1="730"
+         y1="280"
+         x2="800"
+         y2="280"
+         style="stroke:#222222;stroke-linecap:square;stroke-width:2;fill:none;stroke-opacity:0.86666667"
+         id="line65" />
+      <line
+         x1="640"
+         y1="280"
+         x2="640"
+         y2="310"
+         style="stroke:#222222;stroke-linecap:square;stroke-width:2;fill:none;stroke-opacity:0.86666667"
+         id="line66" />
+      <text
+         x="572"
+         y="280"
+         style="fill:none;font-family:Arial;font-size:12px;text-anchor:end;stroke:#222222;stroke-opacity:0.86666667"
+         dominant-baseline="middle"
+         transform="rotate(0, 572, 280)"
+         id="text66" />
+      <line
+         x1="583"
+         y1="280"
+         x2="680"
+         y2="280"
+         style="stroke:#222222;stroke-linecap:square;stroke-width:2;fill:none;stroke-opacity:0.86666667"
+         id="line67" />
+      <ellipse
+         cx="580"
+         cy="280"
+         rx="3"
+         ry="3"
+         style="fill-opacity:0;fill:none;stroke:#222222;stroke-width:2;stroke-opacity:0.86666667"
+         id="ellipse67" />
+      <line
+         x1="680"
+         y1="280"
+         x2="687"
+         y2="280"
+         style="stroke:#222222;stroke-linecap:square;stroke-width:2;fill:none;stroke-opacity:0.86666667"
+         id="line68" />
+      <path
+         d="M 689,270 M 689,280 L 689,298 L 717,280 L 689,262 L 689,280 Z"
+         style="fill-opacity:0;fill:none;stroke:#222222;stroke-linecap:square;stroke-width:2;stroke-opacity:0.86666667"
+         id="path68" />
+      <path
+         d="M 715,280 M 718,280 A 2,2 -5 0 1 724,280 A 2,2 -5 0 1 718,280 Z"
+         style="fill-opacity:0;fill:none;stroke:#222222;stroke-linecap:square;stroke-width:2;stroke-opacity:0.86666667"
+         id="path69" />
+      <line
+         x1="725"
+         y1="280"
+         x2="750"
+         y2="280"
+         style="stroke:#222222;stroke-linecap:square;stroke-width:2;fill:none;stroke-opacity:0.86666667"
+         id="line69" />
+    </g>
+  </g>
+  <defs
+     id="defs34">
+    <linearGradient
+       y2="0"
+       x2="1"
+       y1="1"
+       x1="0"
+       id="linearGradient5">
+      <stop
+         offset="0"
+         stop-color="#232f3e"
+         id="stop4"
+         style="stop-color:#66a1e7;stop-opacity:1;" />
+      <stop
+         offset="1"
+         stop-opacity="0.99609"
+         stop-color="#232f3e"
+         id="stop5" />
+    </linearGradient>
+    <!-- Orange Gradient -->
+    <!-- Background Grid Pattern -->
+    <linearGradient
+       y2="0"
+       x2="1"
+       y1="1"
+       x1="0"
+       id="svg_18">
+      <stop
+         offset="0"
+         stop-color="#ff8800"
+         id="stop31" />
+      <stop
+         offset="0.99609"
+         stop-opacity="0.99609"
+         stop-color="#ffaa00"
+         id="stop32" />
+    </linearGradient>
+    <linearGradient
+       y2="0"
+       x2="1"
+       y1="1"
+       x1="0"
+       id="svg_22">
+      <stop
+         offset="0"
+         stop-color="#ff8800"
+         id="stop33" />
+      <stop
+         offset="1"
+         stop-opacity="0.99609"
+         stop-color="#ffaa00"
+         id="stop34" />
+    </linearGradient>
+    <linearGradient
+       y2="0"
+       x2="1"
+       y1="1"
+       x1="0"
+       id="block_letter_secondary">
+      <stop
+         offset="0"
+         stop-color="#232f3e"
+         id="stop1" />
+      <stop
+         offset="1"
+         stop-opacity="0.99609"
+         stop-color="#232f3e"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5"
+       id="linearGradient4"
+       x1="550"
+       y1="625"
+       x2="650"
+       y2="625"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#svg_18"
+       id="linearGradient69"
+       x1="317.54265"
+       y1="1342.3394"
+       x2="490.74773"
+       y2="1169.1343"
+       gradientTransform="matrix(1.7320508,0,0,0.57735027,0,5)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+</svg>
